@@ -1,0 +1,7 @@
+C:\Users\kdar0_000\source\repos\KdarsVehicleRepair\KdarsVehicleRepair\bin\Debug\KdarsVehicleRepair.exe.config
+C:\Users\kdar0_000\source\repos\KdarsVehicleRepair\KdarsVehicleRepair\bin\Debug\KdarsVehicleRepair.exe
+C:\Users\kdar0_000\source\repos\KdarsVehicleRepair\KdarsVehicleRepair\bin\Debug\KdarsVehicleRepair.pdb
+C:\Users\kdar0_000\source\repos\KdarsVehicleRepair\KdarsVehicleRepair\obj\Debug\KdarsVehicleRepair.csprojResolveAssemblyReference.cache
+C:\Users\kdar0_000\source\repos\KdarsVehicleRepair\KdarsVehicleRepair\obj\Debug\KdarsVehicleRepair.csproj.CoreCompileInputs.cache
+C:\Users\kdar0_000\source\repos\KdarsVehicleRepair\KdarsVehicleRepair\obj\Debug\KdarsVehicleRepair.exe
+C:\Users\kdar0_000\source\repos\KdarsVehicleRepair\KdarsVehicleRepair\obj\Debug\KdarsVehicleRepair.pdb
