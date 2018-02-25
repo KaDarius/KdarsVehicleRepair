@@ -44,7 +44,7 @@ namespace KdarsVehicleRepair
 
             Console.Write("Please input name of mechanic on the job?");
             mechanicName = Console.ReadLine();
-            Console.Write("Output: Name : {2} make {0} and model {1}:", carMake, carModel, name);
+            Console.Write("Output: Name : {2} | Make : {0} : | Model : {1} :", carMake, carModel, name);
             Console.ReadKey();
 
 

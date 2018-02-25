@@ -36,11 +36,11 @@ namespace KdarsVehicleRepair
 
         public void PrintReport()
         {
-          Console.WriteLine("Detective Name: {0:c}", Name);
+          Console.WriteLine("Mechanic Name: {0:c}", Name);
           Console.WriteLine("Hourly Rate: {0:c}", HourlyRate);
-          Console.WriteLine("Mechanic on duty?");
-          
-            
+          Console.WriteLine("Mechanic currently on job?: {0:c}", OnClaim);
+          Console.WriteLine("Weekly Pay: {O:c}", weeklyRate);
+            Console.WriteLine("");  
         }
     }
 }
