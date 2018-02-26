@@ -47,8 +47,12 @@ namespace KdarsVehicleRepair
             Console.Write("Output: Name : {2} | Make : {0} : | Model : {1} :", carMake, carModel, name);
             Console.ReadKey();
 
+            Console.WriteLine("");
+            Console.WriteLine("Reports");
+            Console.WriteLine("*******************************************************************");
 
-           
+            Mechanic Bud = new Mechanic("Bud",true, 25.00);
+        
         }
     }
 }
