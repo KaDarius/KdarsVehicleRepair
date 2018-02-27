@@ -26,6 +26,8 @@ namespace KdarsVehicleRepair
             carModel = Console.ReadLine();
             Console.Write("Do you have insurance? (Y/N)");
             insurance = Console.ReadLine();
+            Console.WriteLine("Please input a Case Description:");
+            caseDescription = Console.ReadLine();
 
             if ( insurance== "Y")
             {
@@ -36,7 +38,6 @@ namespace KdarsVehicleRepair
             {
                 hasInsurance = false;
             }
-            Console.WriteLine(hasInsurance);
 
             /* bool statment captures whether or  not the user has insurance - possibly add package pricing 
              * at later date */
@@ -58,7 +59,15 @@ namespace KdarsVehicleRepair
             Console.WriteLine("Client Report");
             Console.WriteLine("*******************************************************************");
 
-           
+            Client client = new Client(name, carMake, carModel, mechanicName, caseDescription);
+
+            Console.WriteLine("");
+            Console.WriteLine("Car Report");
+            Console.WriteLine("********************************************************************");
+
+            Car car = new Car(carMake, carModel, caseDescription, mechanicName);
+
+            Console.ReadKey();
         
         }
     }
