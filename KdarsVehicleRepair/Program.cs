@@ -52,6 +52,14 @@ namespace KdarsVehicleRepair
             Console.WriteLine("*******************************************************************");
 
             Mechanic Bud = new Mechanic("Bud",true, 25.00);
+            Mechanic Buddy = new Mechanic("Buddy",false, 15.50)l;
+            Mechanic Buddie = new Mechanic("Buddie", false, 50.00);
+
+            Console.WriteLine("");
+            Console.WriteLine("Client Report");
+            Console.WriteLine("*******************************************************************");
+
+           
         
         }
     }
