@@ -16,7 +16,6 @@ namespace KdarsVehicleRepair
             string insurance;
             string caseDescription;
             string carModel;
-            string carDescription;
             bool hasInsurance;
 
             Console.Write("Please input client's name: ");
