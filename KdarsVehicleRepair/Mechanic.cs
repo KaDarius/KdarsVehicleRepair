@@ -40,7 +40,7 @@ namespace KdarsVehicleRepair
           Console.WriteLine("Hourly Rate: {0:c}", HourlyRate);
           Console.WriteLine("Mechanic currently on job?: {0:c}", OnClaim);
           Console.WriteLine("Weekly Pay: {O:c}", weeklyRate);
-            Console.WriteLine("");  
+          Console.WriteLine("");  
         }
     }
 }
